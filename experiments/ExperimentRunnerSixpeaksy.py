@@ -20,7 +20,7 @@ class ExperimentRunnerSixpeaksy:
         self.experiment_rhc_2()
         self.experiment_rhc_3()
 
-        self.experiment_sa_1()
+        
         self.experiment_sa_2()
         self.experiment_sa_3()
         self.experiment_sa_4()
